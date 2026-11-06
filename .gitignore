@@ -1,0 +1,10 @@
+/.toolshop/
+/.env
+/node_modules/
+/test-results/
+/playwright-report/
+/Тестовое.pdf
+/reports/review-*/
+/Prionex-submission.zip
+/reports/results/**/*.zip
+/reports/results/**/*.png
